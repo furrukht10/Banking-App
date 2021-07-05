@@ -3,18 +3,18 @@ Inspired by a tutorial, this simple application designed using HTML, CSS, JS all
 
 You can transfer, and request money from pre-existing accounts. Below are the current existing accounts:
 
+##
 Name: James May
 Username (to Login): jm
 Password: 1111
-
-Name: Olivia Smith
-Username (to Login): os
+##
+Name: Olivia Smith \nUsername (to Login): os
 Password: 2222
-
+##
 Name: Stephen James
 Username (to Login): sj
 Password: 3333
-
+##
 Name: Lionel Ronaldo
 Username (to Login): lr
 Password: 4444
