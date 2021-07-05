@@ -28,7 +28,7 @@ const account3 = {
 };
 
 const account4 = {
-  owner: "Lionel Ronaldo",
+  owner: "Mary Jane",
   movements: [430, 1000, 700, 50, 90],
   interestRate: 1,
   pin: 4444,
