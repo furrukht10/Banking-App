@@ -5,19 +5,19 @@ You can transfer, and request money from pre-existing accounts. Below are the cu
 
 ##
 Name: James May
-</br>Username (to Login): jm
-</br>Password: 1111
+</br>Username (to Login): **jm**
+</br>Password: **1111**
 ##
 Name: Olivia Smith 
-</br>Username (to Login): os
+</br>Username (to Login): **os**
 </br>Password: 2222
 ##
 Name: Stephen James
-</br>Username (to Login): sj
-</br>Password: 3333
+</br>Username (to Login): **sj**
+</br>Password: **3333**
 ##
 Name: Lionel Ronaldo
-</br>Username (to Login): lr
-</br>Password: 4444
+</br>Username (to Login): **lr**
+</br>Password: **4444**
 
-##You can only transfer and request between these 4 accounts at the moment. Remember to type in the username (initials) when doing so.
+**You can only transfer and request between these 4 accounts at the moment. Remember to type in the username (initials) when doing so.**
