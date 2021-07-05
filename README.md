@@ -22,4 +22,4 @@ Name: Lionel Ronaldo
 
 **You can only transfer and request between these 4 accounts at the moment. Remember to type in the username (initials) when doing so.**
 
-_ Credits to Jonas Schmedtmann and Icons8 _
+*Credits to Jonas Schmedtmann and Icons8*
