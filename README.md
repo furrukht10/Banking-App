@@ -16,7 +16,7 @@ Name: Stephen James
 </br>Username (to Login): **sj**
 </br>Password: **3333**
 ##
-Name: Lionel Ronaldo
+Name: Mary Jane
 </br>Username (to Login): **lr**
 </br>Password: **4444**
 
