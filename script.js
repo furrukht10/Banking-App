@@ -224,6 +224,8 @@ btnClose.addEventListener("click", function (e) {
 
     // Hide UI
     containerApp.style.opacity = 0;
+
+    labelWelcome.textContent = `Log in to get started`;
   }
 
   inputCloseUsername.value = inputClosePin.value = "";
