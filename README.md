@@ -25,6 +25,7 @@ Name: Mary Jane
 
 ## Demo: https://demo-banking-app.netlify.app/
 
+<img width="611" alt="banking" src="https://user-images.githubusercontent.com/79553858/125141990-90b6da80-e0e4-11eb-9792-84a980fb4b2c.png">
 
 
 
