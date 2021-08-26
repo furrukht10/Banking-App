@@ -3,6 +3,9 @@ Inspired by a tutorial, this simple application designed using HTML, CSS, JS all
 
 You can transfer, and request money from pre-existing accounts. Below are the current existing accounts:
 
+This program is fully JavaScript based and uses core concepts such as 
+DOM manipulation, function, arrays, and array methods.
+
 ##
 Name: James May
 </br>Username (to Login): **jm**
