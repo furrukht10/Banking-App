@@ -1,7 +1,7 @@
 # Banking-App
 
 This application designed using HTML, CSS, and JavaScript allows you deposit and request money between a series of pre-existing accounts.
-The application uses JavaScript concepts such as DOM manipulation, objects, , functions, and primarily arrays and array methods.
+The application uses JavaScript concepts such as DOM manipulation, functions, and primarily arrays and array methods.
 
 This application was designed under the supervision of Jonas Schmedtmann and his JavaScript course. The application will constantly be improved in the future independently.
 
