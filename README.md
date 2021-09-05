@@ -1,8 +1,12 @@
 # Banking-App
-Inspired by a tutorial, this simple application designed using HTML, CSS, JS allows you deposit and request money between a series of pre-existing accounts.
 
-You can transfer, and request money from pre-existing accounts. Below are the current existing accounts:
+This application designed using HTML, CSS, and JavaScript allows you deposit and request money between a series of pre-existing accounts.
+The application uses JavaScript concepts such as DOM manipulation, functions, and primarily arrays and array methods.
 
+This application was designed under the supervision of Jonas Schmedtmann and his JavaScript course. The application will constantly be improved in the future independently.
+
+
+Below are the pre-defined accounts that can be used to log into the application.
 ##
 Name: James May
 </br>Username (to Login): **jm**
@@ -25,7 +29,8 @@ Name: Mary Jane
 
 ## Demo: https://demo-banking-app.netlify.app/
 
+<img width="611" alt="banking" src="https://user-images.githubusercontent.com/79553858/125141990-90b6da80-e0e4-11eb-9792-84a980fb4b2c.png">
 
 
 
-*Credits to Jonas Schmedtmann and Icons8*
+
